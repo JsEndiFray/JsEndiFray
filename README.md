@@ -8,9 +8,10 @@ Soy un desarrollador en constante aprendizaje, enfocado principalmente en el des
 - **MySQL**  
 - **MongoDB**
 
-  
-  **Frontend**  
+
+**Frontend**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
