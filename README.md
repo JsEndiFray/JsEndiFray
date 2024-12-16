@@ -6,7 +6,28 @@ Soy un desarrollador en constante aprendizaje, enfocado principalmente en el des
 - **Angular** (mi principal enfoque en frontend)  
 - **Node.js** (mi principal enfoque en backend)  
 - **MySQL**  
-- **MongoDB**  
+- **MongoDB**
+
+  
+  **Frontend**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Bases de Datos**  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**ORM**  
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=javascript&logoColor=white)
+
+**Herramientas y Otros**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 Por mi cuenta, he aprendido e implementado tecnologías y herramientas clave como:
 - **Sequelize ORM** con **Node.js**, para trabajar con bases de datos relacionales.
