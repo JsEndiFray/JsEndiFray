@@ -54,7 +54,7 @@ Mi meta a corto y largo plazo es especializarme en el **desarrollo backend**, de
 ---
 
 🌟 **Habilidades**  
-- **Backend:** Node.js | Nest.js | Sequelize ORM | MySQL | MongoDB | Python  
+- **Backend:** Node.js | Nest.js | Sequelize ORM | MySQL | MongoDB | Python (Aprendiendo)
 - **Frontend:** Angular  
 - **Lenguajes:** TypeScript | JavaScript
 - **Otras tecnologías:** Git/GitHub | Diseño y arquitectura básica de software  
