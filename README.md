@@ -27,18 +27,13 @@ Soy un desarrollador en constante aprendizaje, enfocado principalmente en el des
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-Por mi cuenta, he aprendido e implementado tecnologías y herramientas clave como:
-- **Sequelize ORM** con **Node.js**, para trabajar con bases de datos relacionales.
-- **Nest.js** y **TypeScript**, con los que me he familiarizado profundamente para construir aplicaciones backend robustas y escalables.
-
 A pesar de ser Junior, me esfuerzo por practicar continuamente y profundizar en mis conocimientos para convertirme en un desarrollador sólido y versátil.
 
 ---
 
 🎯 **Objetivos**  
 Mi meta a corto y largo plazo es especializarme en el **desarrollo backend**, desarrollando soluciones eficientes y escalables. Me interesa particularmente:
-- Mejorar mis habilidades con **Nest.js**, **Node.js** y **Sequelize**.
+- Mejorar mis habilidades con **Node.js** y **Sequelize**.
 - Ampliar mi conocimiento de **MongoDB** y bases de datos no relacionales.
 - Ampliar mi conocimiento de **MySQL** y bases de datos relacionales.
 - Explorar nuevas tecnologías como **Python** para proyectos en áreas como inteligencia artificial y automatización.
@@ -52,7 +47,7 @@ Mi meta a corto y largo plazo es especializarme en el **desarrollo backend**, de
 ---
 
 🌟 **Habilidades**  
-- **Backend:** Node.js | Nest.js | Sequelize ORM | MySQL | MongoDB | Python (Aprendiendo)
+- **Backend:** Node.js | Nest.js | Sequelize ORM | MySQL | MongoDB | Docker (Aprendiendo)
 - **Frontend:** Angular  
 - **Lenguajes:** TypeScript | JavaScript
 - **Otras tecnologías:** Git/GitHub | Diseño y arquitectura básica de software  
