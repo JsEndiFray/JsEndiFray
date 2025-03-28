@@ -58,10 +58,11 @@ A pesar de ser Junior, me esfuerzo por practicar continuamente y profundizar en 
 
 ---
 
-📬 **Conecta conmigo**  
-- [LinkedIn](https://www.linkedin.com/in/endifray/)  
-- [Portafolio](Proximamente)  
-- [Correo](endifmv@gmail.com)  
+## 📬 Conecta conmigo
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/endifray/)  
+- 📧 [endifmv@gmail.com](mailto:endifmv@gmail.com)  
+- 🌐 Portafolio: *Próximamente*
 
 ---
 
