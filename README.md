@@ -150,9 +150,9 @@ graph LR
 <br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JsEndiFray&bg_color=0D1117&color=45B7D1&line=4ECDC4&point=FF6B6B&area=true&hide_border=true" />
 
-  <!-- Contribution Snake -->
-  <br>
-  <img src="https://raw.githubusercontent.com/JsEndiFray/JsEndiFray/output/snake.svg" alt="Snake animation" />
+  <!-- GitHub Profile Summary Cards -->
+<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JsEndiFray&theme=tokyonight" />
 
 </div>
 
